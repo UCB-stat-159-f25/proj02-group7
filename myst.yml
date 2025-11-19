@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a74ecdef-c9eb-4683-b555-417faf7e975c
+  title: Stat159 Project 2 - Reproducibility in Natural Language Processing
+  # description:
+  # keywords: []
+  authors:
+    - name: Reily Fairchild
+      affiliation: UC Berkeley
+    - name: Atiila Joselyn Birah Kharobo
+      affiliation: UC Berkeley
+    - name: Jordan Elizabeth Collins
+      affiliation: UC Berkeley
+    - name: Aditya Jagannadha Sai Mangalampalli
+      affiliation: UC Berkeley
+  github: https://github.com/UCB-stat-159-f25/proj02-group7
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
