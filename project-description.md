@@ -1,4 +1,5 @@
-# Project 2: Reproducibility in Natural Langauge Processing
+# Project Description 
+Project 2: Reproducibility in Natural Langauge Processing
 
 * **Statistics 159/259, Fall 2025**
 * **Due 11/21/2025, 11:59PM PT**
