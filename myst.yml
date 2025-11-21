@@ -26,7 +26,6 @@ project:
     - file: nlp-P02.ipynb
     - file: nlp-P03.ipynb
     - file: nlp-P04.ipynb
-    - file: proj02-nlp.ipynb
     - file: project-description.md
     
 site:
